@@ -1,0 +1,3 @@
+[submodule "Rdatasets"]
+	path = Rdatasets
+	url = git@github.com:vincentarelbundock/Rdatasets.git
